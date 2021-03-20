@@ -1,3 +1,7 @@
+# About
+Really simple sample application: simple table presenting result of communication with REST API (swapi.dev) + some basic tests (react-testing-library).
+React JS + axios + React Testing Library
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
